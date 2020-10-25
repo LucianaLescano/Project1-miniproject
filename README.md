@@ -29,7 +29,7 @@
 ### SOME of my issues 
     Dear teachers please have patience with me, here are some of the things that cost me the most:
     - Stoping the while loop, I try I swear I try but I'm not really good friend with while loops. 😤
-    I tought typing hang == False will stop it but clearly it does not AND clearly I do not know why.
+    I tought typing hang == False would stop it but clearly it does not AND clearly I do not know why.
     - Even though I made myself a sketch I'm still a mess typing my code. 🙁
     - Last one, I'll keep trying. 💪🏽
     So feel free to tell me whatever you want about my code. 
